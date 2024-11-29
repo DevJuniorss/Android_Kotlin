@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+<!--Example of structure made by XML-->
+
+    <TextView
+        android:id="@+id/TitleTv"
+        android:layout_width="180dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="42dp"
+        android:layout_marginBottom="285dp"
+        android:text="Titulo"
+        app:layout_constraintBottom_toTopOf="@+id/Btn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <Button
+        android:id="@+id/Btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="28dp"
+        android:layout_marginBottom="70dp"
+        android:text="Button"
+        app:layout_constraintBottom_toTopOf="@+id/inputEditText"
+        app:layout_constraintEnd_toEndOf="@+id/inputEditText"
+        app:layout_constraintTop_toBottomOf="@+id/TitleTv" />
+
+    <EditText
+        android:id="@+id/inputEditText"
+        android:layout_width="177dp"
+        android:layout_height="57dp"
+        android:layout_marginBottom="56dp"
+        android:hint="Digite algo"
+        app:layout_constraintBottom_toTopOf="@+id/InputLayoutTwo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Btn" />
+
+    <!--uma forma de input de texto que testei-->
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/InputLayoutTwo"
+        android:layout_width="247dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="81dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/inputEditText">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/InputTextTwo"
+            android:layout_width="248dp"
+            android:layout_height="58dp"
+            android:hint="Reclamar" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

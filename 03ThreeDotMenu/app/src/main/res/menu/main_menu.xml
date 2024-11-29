@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_Settings"
+        android:title="Configurations"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_Help"
+        android:title="Help"
+        android:orderInCategory="101"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_About"
+        android:title="About"
+        android:orderInCategory="102"
+        android:showAsAction="never" />
+
+</menu>
