@@ -1,102 +1,90 @@
 [
     {
-        "merged": "com.example.animalapp-debug-52:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.animalapp-main-54:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.example.animalapp-debug-54:/raw_lobo_vid.mp4.flat",
+        "source": "com.example.animalapp-main-56:/raw/lobo_vid.mp4"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/raw_touro_audio.m4a.flat",
-        "source": "com.example.animalapp-main-54:/raw/touro_audio.m4a"
+        "merged": "com.example.animalapp-debug-54:/raw_cordeiro_vid.mp4.flat",
+        "source": "com.example.animalapp-main-56:/raw/cordeiro_vid.mp4"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.animalapp-main-54:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.example.animalapp-debug-54:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.animalapp-main-56:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.animalapp-main-54:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.example.animalapp-debug-54:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.animalapp-main-56:/mipmap-anydpi/ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.animalapp-main-54:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.example.animalapp-debug-54:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.animalapp-main-56:/mipmap-anydpi/ic_launcher.xml"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.animalapp-main-54:/drawable/ic_launcher_background.xml"
+        "merged": "com.example.animalapp-debug-54:/raw_lobo_audio.m4a.flat",
+        "source": "com.example.animalapp-main-56:/raw/lobo_audio.m4a"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.animalapp-main-54:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.example.animalapp-debug-54:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.animalapp-main-56:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/raw_jumento_vid.mp4.flat",
-        "source": "com.example.animalapp-main-54:/raw/jumento_vid.mp4"
+        "merged": "com.example.animalapp-debug-54:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.animalapp-main-56:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.animalapp-main-54:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.animalapp-debug-54:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.animalapp-main-56:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/drawable_vaca.jpeg.flat",
-        "source": "com.example.animalapp-main-54:/drawable/vaca.jpeg"
+        "merged": "com.example.animalapp-debug-54:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.animalapp-main-56:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/raw_vaca_audio.m4a.flat",
-        "source": "com.example.animalapp-main-54:/raw/vaca_audio.m4a"
+        "merged": "com.example.animalapp-debug-54:/raw_cordeiro_audio.m4a.flat",
+        "source": "com.example.animalapp-main-56:/raw/cordeiro_audio.m4a"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.animalapp-main-54:/xml/data_extraction_rules.xml"
+        "merged": "com.example.animalapp-debug-54:/xml_backup_rules.xml.flat",
+        "source": "com.example.animalapp-main-56:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.animalapp-main-54:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.example.animalapp-debug-54:/drawable_lobo.jpeg.flat",
+        "source": "com.example.animalapp-main-56:/drawable/lobo.jpeg"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.animalapp-main-54:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.example.animalapp-debug-54:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.animalapp-main-56:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.animalapp-main-54:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.animalapp-debug-54:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.animalapp-main-56:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/raw_touro_vid.mp4.flat",
-        "source": "com.example.animalapp-main-54:/raw/touro_vid.mp4"
+        "merged": "com.example.animalapp-debug-54:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.animalapp-main-56:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/raw_vaca_vid.mp4.flat",
-        "source": "com.example.animalapp-main-54:/raw/vaca_vid.mp4"
+        "merged": "com.example.animalapp-debug-54:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.animalapp-main-56:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.animalapp-main-54:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.example.animalapp-debug-54:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.animalapp-main-56:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/raw_jumento_audio.m4a.flat",
-        "source": "com.example.animalapp-main-54:/raw/jumento_audio.m4a"
+        "merged": "com.example.animalapp-debug-54:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.animalapp-main-56:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/drawable_touro.jpeg.flat",
-        "source": "com.example.animalapp-main-54:/drawable/touro.jpeg"
+        "merged": "com.example.animalapp-debug-54:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.animalapp-main-56:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "com.example.animalapp-main-54:/mipmap-anydpi/ic_launcher.xml"
+        "merged": "com.example.animalapp-debug-54:/drawable_cordeiro.jpeg.flat",
+        "source": "com.example.animalapp-main-56:/drawable/cordeiro.jpeg"
     },
     {
-        "merged": "com.example.animalapp-debug-52:/xml_backup_rules.xml.flat",
-        "source": "com.example.animalapp-main-54:/xml/backup_rules.xml"
-    },
-    {
-        "merged": "com.example.animalapp-debug-52:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.animalapp-main-54:/mipmap-mdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.animalapp-debug-52:/drawable_jumento.jpeg.flat",
-        "source": "com.example.animalapp-main-54:/drawable/jumento.jpeg"
-    },
-    {
-        "merged": "com.example.animalapp-debug-52:/mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "com.example.animalapp-main-54:/mipmap-anydpi/ic_launcher_round.xml"
+        "merged": "com.example.animalapp-debug-54:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.animalapp-main-56:/xml/data_extraction_rules.xml"
     }
 ]

@@ -28,7 +28,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.AnimalApp" >
         <activity
-            android:name="com.example.animalapp.VideoPlayerActivity"
+            android:name="com.example.animalapp.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.AnimalApp" >
@@ -38,6 +38,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="androidx.activity.ComponentActivity"
+            android:exported="true" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
@@ -54,9 +57,6 @@
                 android:value="androidx.startup" />
         </provider>
 
-        <activity
-            android:name="androidx.activity.ComponentActivity"
-            android:exported="true" />
         <activity
             android:name="androidx.compose.ui.tooling.PreviewActivity"
             android:exported="true" />

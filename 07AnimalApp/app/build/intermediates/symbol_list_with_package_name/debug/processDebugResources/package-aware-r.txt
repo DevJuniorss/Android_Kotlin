@@ -79,6 +79,7 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+drawable cordeiro
 drawable ic_call_answer
 drawable ic_call_answer_low
 drawable ic_call_answer_video
@@ -87,7 +88,7 @@ drawable ic_call_decline
 drawable ic_call_decline_low
 drawable ic_launcher_background
 drawable ic_launcher_foreground
-drawable jumento
+drawable lobo
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -101,8 +102,6 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
-drawable touro
-drawable vaca
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
 id accessibility_custom_action_1
@@ -153,6 +152,7 @@ id dialog_button
 id edit_text_id
 id end_padder
 id forever
+id hide_graphics_layer_in_inspector_tag
 id hide_ime_id
 id hide_in_inspector_tag
 id icon
@@ -198,6 +198,7 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id wrapped_composition_tag
 integer cancel_button_image_alpha
+integer m3c_window_layout_in_display_cutout_mode
 integer status_bar_notification_info_maxnum
 layout custom_dialog
 layout ime_base_split_test_activity
@@ -219,12 +220,10 @@ layout notification_template_part_chronometer
 layout notification_template_part_time
 mipmap ic_launcher
 mipmap ic_launcher_round
-raw jumento_audio
-raw jumento_vid
-raw touro_audio
-raw touro_vid
-raw vaca_audio
-raw vaca_vid
+raw cordeiro_audio
+raw cordeiro_vid
+raw lobo_audio
+raw lobo_vid
 string androidx_startup
 string app_name
 string call_notification_answer_action
@@ -280,6 +279,7 @@ string m3c_date_range_picker_title
 string m3c_dialog
 string m3c_dropdown_menu_collapsed
 string m3c_dropdown_menu_expanded
+string m3c_dropdown_menu_toggle
 string m3c_search_bar_search
 string m3c_snackbar_dismiss
 string m3c_suggestions_available
@@ -299,11 +299,12 @@ string m3c_tooltip_long_press_label
 string m3c_tooltip_pane_description
 string navigation_menu
 string not_selected
-string off
-string on
 string range_end
 string range_start
 string selected
+string state_empty
+string state_off
+string state_on
 string status_bar_notification_info_overflow
 string switch_role
 string tab
@@ -311,6 +312,8 @@ string template_percent
 string tooltip_description
 string tooltip_label
 style DialogWindowTheme
+style EdgeToEdgeFloatingDialogTheme
+style EdgeToEdgeFloatingDialogWindowTheme
 style FloatingDialogTheme
 style FloatingDialogWindowTheme
 style TextAppearance_Compat_Notification

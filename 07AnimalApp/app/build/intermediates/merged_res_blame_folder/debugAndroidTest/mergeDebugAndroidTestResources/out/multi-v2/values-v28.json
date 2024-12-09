@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.animalapp.test.app-mergeDebugAndroidTestResources-33:/values-v28/values-v28.xml",
+            "outputFile": "com.example.animalapp.test.app-mergeDebugAndroidTestResources-35:/values-v28/values-v28.xml",
             "map": [
                 {
                     "source": "/home/nero/.gradle/caches/8.10.2/transforms/10a463859897847855eda951d4b6b767/transformed/core-1.6.1/res/values-v28/values.xml",

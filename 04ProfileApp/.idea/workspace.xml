@@ -17,7 +17,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2120205-a475-4cf8-b6ad-18d53382b44e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07AnimalApp/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07AnimalApp/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07AnimalApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/java/com/example/zooapp/Models/Animal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/java/com/example/zooapp/Navigation/NavGraph.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/java/com/example/zooapp/ui/components/AnimalListItem.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/java/com/example/zooapp/ui/components/AnimalScreen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/java/com/example/zooapp/ui/components/HomeScreen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/ant.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/bear.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/cat.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/dog.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/eagle.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/frog.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/giraffe.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/horse.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/iguana.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/jaguar.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/kangaroo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/lion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/monkey.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/narwhal.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/owl.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/penguin.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/quail.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/rabbit.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/snake.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/tiger.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/umbrella_bird.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/vulture.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/wolf.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/xerus.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/yak.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08ZooApp/app/src/main/res/drawable/zebra.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03ThreeDotMenu/.gradle/8.9/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../03ThreeDotMenu/.gradle/8.9/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03ThreeDotMenu/.gradle/8.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../03ThreeDotMenu/.gradle/8.9/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03ThreeDotMenu/.gradle/8.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../03ThreeDotMenu/.gradle/8.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03ThreeDotMenu/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../03ThreeDotMenu/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03ThreeDotMenu/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03ThreeDotMenu/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03ThreeDotMenu/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03ThreeDotMenu/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03ThreeDotMenu/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03ThreeDotMenu/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03ThreeDotMenu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03ThreeDotMenu/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07AnimalApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../07AnimalApp/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +140,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/nero/Dev/WorkSpace/04ProfileApp/app/src/main/res/drawable"
+    "last_opened_file_path": "/home/nero/Dev/WorkSpace/04ProfileApp"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -105,7 +150,8 @@
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="ProfileApp.app.main" />
+      <module name="ProfileApp.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -113,6 +159,7 @@
       <option name="PM_INSTALL_OPTIONS" value="" />
       <option name="ALL_USERS" value="false" />
       <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
       <option name="CLEAR_APP_STORAGE" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
@@ -165,6 +212,7 @@
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
@@ -183,5 +231,21 @@
       <updated>1736097689085</updated>
     </task>
     <servers />
+  </component>
+  <component name="play_dynamic_filters_status">
+    <option name="appIdToCheckInfo">
+      <map>
+        <entry key="com.example.profileapp">
+          <value>
+            <CheckInfo lastCheckTimestamp="1736611085695" />
+          </value>
+        </entry>
+        <entry key="com.example.profileapp.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1736611085695" />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
