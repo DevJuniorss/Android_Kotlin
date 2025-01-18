@@ -1,0 +1,29 @@
+package com.example.requisitionapp.data.models
+
+import retrofit2.http.Body
+import retrofit2.http.DELETE
+import retrofit2.http.GET
+import retrofit2.http.POST
+import retrofit2.http.PUT
+import retrofit2.http.Path
+
+interface ApiServices {
+
+    @POST("user/")
+    suspend fun createUser(@Body user: UserCreateRequest): User
+
+    @GET("user/")
+    suspend fun getUsers(): List<User>
+
+    @POST("user/{user_id}/posts/")
+    suspend fun createPost(@Path("user_id") userId: Int, @Body post: CreatePost): Post
+
+    @GET("users/{user_id}/posts")
+    suspend fun getPosts(@Path("user_id")userId: Int):List<Post>
+
+    @PUT("posts/post_id")
+    suspend fun updatePost(@Path("post_id")postId:Int,@Body post:CreatePost): Post
+
+    @DELETE("posts/post_id/")
+    suspend fun deletePost(@Path("post_id")postId:Int)
+}
