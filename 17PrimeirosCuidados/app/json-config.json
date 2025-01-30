@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461216376511",
+    "project_id": "primeiros-cuidados",
+    "storage_bucket": "primeiros-cuidados.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461216376511:android:c513d02d694e24f909c80a",
+        "android_client_info": {
+          "package_name": "com.example.primeiroscuidados"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNuHq7zmPxQvyKwLJI0eMc1rYuuzaWnVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
