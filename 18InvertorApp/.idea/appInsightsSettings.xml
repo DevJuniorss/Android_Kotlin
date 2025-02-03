@@ -10,9 +10,9 @@
               <option name="connection">
                 <ConnectionSetting>
                   <option name="appId" value="com.example.invertorapp" />
-                  <option name="mobileSdkAppId" value="1:611854154434:android:e82af8024d374751dfd95b" />
-                  <option name="projectId" value="invertorapp-c2024" />
-                  <option name="projectNumber" value="611854154434" />
+                  <option name="mobileSdkAppId" value="1:1018492611264:android:f05d1237fabd774c505b25" />
+                  <option name="projectId" value="bolsadevalores-e008b" />
+                  <option name="projectNumber" value="1018492611264" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

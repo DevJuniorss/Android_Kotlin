@@ -1,7 +1,6 @@
 package com.example.invertorapp.viewmodel
 
 
-import android.Manifest
 import android.annotation.SuppressLint
 import android.app.Application
 import android.app.NotificationChannel
@@ -25,10 +24,10 @@ import com.google.firebase.database.ValueEventListener
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 
-class InvestimentoViewModel(application: Application) : AndroidViewModel(application) {
+class InvestimentViewModel(application: Application) : AndroidViewModel(application) {
 
     private val database = FirebaseDatabase.getInstance()
-        .reference.child("investimentos")
+        .reference.child("investiment")
 
     private val _investimento = MutableStateFlow<List<Investiment>>(emptyList())
     val investimento: StateFlow<List<Investiment>> = _investimento
@@ -59,7 +58,7 @@ class InvestimentoViewModel(application: Application) : AndroidViewModel(applica
             }
 
             override fun onCancelled(error: DatabaseError) {
-                Log.e("FirebaseError", "Alteracao nao mapeada: ${error.message}")
+                Log.e("FirebaseError", "Update untracked: ${error.message}")
             }
         })
     }
@@ -87,7 +86,7 @@ class InvestimentoViewModel(application: Application) : AndroidViewModel(applica
     }
 
     @SuppressLint("MissingPermission")
-    private fun sendNotification(titulo: String, mensagem: String) {
+    private fun sendNotification(title: String, message: String) {
 
         val channelId = "investimentos_notifications"
         val notificationId = (System.currentTimeMillis() % 10000).toInt()
@@ -96,7 +95,7 @@ class InvestimentoViewModel(application: Application) : AndroidViewModel(applica
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
             val channel = NotificationChannel(
                 channelId,
-                "Notificações de Investimentos",
+                "Investiment Notifications",
                 NotificationManager.IMPORTANCE_HIGH
             )
             val notificationManager =
@@ -118,8 +117,8 @@ class InvestimentoViewModel(application: Application) : AndroidViewModel(applica
         // Criar e exibir a notificação
         val notification = NotificationCompat.Builder(getApplication(), channelId)
             .setSmallIcon(R.drawable.ic_launcher_foreground)
-            .setContentTitle(titulo)
-            .setContentText(mensagem)
+            .setContentTitle(title)
+            .setContentText(message)
             .setPriority(NotificationCompat.PRIORITY_HIGH)
             .setContentIntent(pendingIntent)
             .setAutoCancel(true)

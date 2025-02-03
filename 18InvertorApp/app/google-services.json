@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "611854154434",
-    "project_id": "invertorapp-c2024",
-    "storage_bucket": "invertorapp-c2024.firebasestorage.app"
+    "project_number": "1018492611264",
+    "project_id": "bolsadevalores-e008b",
+    "storage_bucket": "bolsadevalores-e008b.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:611854154434:android:e82af8024d374751dfd95b",
+        "mobilesdk_app_id": "1:1018492611264:android:f05d1237fabd774c505b25",
         "android_client_info": {
           "package_name": "com.example.invertorapp"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyD8BolFuS6rJ3bzd85Oennt7bn2w9iKaiA"
+          "current_key": "AIzaSyDZxBRGxfkP2xM09VA4ilDoW_Q6hJwEokk"
         }
       ],
       "services": {
