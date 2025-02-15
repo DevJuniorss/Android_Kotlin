@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "214649547219",
+    "project_id": "loginwithauth2",
+    "storage_bucket": "loginwithauth2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214649547219:android:a3d5a00da922e6ccb86726",
+        "android_client_info": {
+          "package_name": "com.example.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214649547219-nrkdofaijvghtno1aogj637kd58i6q86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authapp",
+            "certificate_hash": "0c07a9c32442f6f49b3dd573367fc558de5d7737"
+          }
+        },
+        {
+          "client_id": "214649547219-2osovpem79uga6ur3h81b6u5jdp7894u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrzP3hnLWQNdXPUsDg9eghVM-qtmihPnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214649547219-2osovpem79uga6ur3h81b6u5jdp7894u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
